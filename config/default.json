@@ -1,0 +1,4 @@
+{
+  "mongoURL": "mongodb+srv://education:education@cluster0.dj2sv.mongodb.net/app?retryWrites=true&w=majority",
+  "jsontoken": "reactnative"
+}
